@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../css"
+		},
+		{
+			"path": "../java scrip"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "java scrip"
+	}
+}
